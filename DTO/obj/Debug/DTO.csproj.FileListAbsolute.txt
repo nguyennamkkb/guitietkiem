@@ -1,0 +1,4 @@
+D:\program\asp-net\guitientietkiem_luongnam\DTO\bin\Debug\DTO.dll
+D:\program\asp-net\guitientietkiem_luongnam\DTO\bin\Debug\DTO.pdb
+D:\program\asp-net\guitientietkiem_luongnam\DTO\obj\Debug\DTO.dll
+D:\program\asp-net\guitientietkiem_luongnam\DTO\obj\Debug\DTO.pdb

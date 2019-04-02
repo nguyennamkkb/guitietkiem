@@ -1,0 +1,9 @@
+D:\program\asp-net\guitientietkiem_luongnam\BUS\bin\Debug\BUS.dll
+D:\program\asp-net\guitientietkiem_luongnam\BUS\bin\Debug\BUS.pdb
+D:\program\asp-net\guitientietkiem_luongnam\BUS\bin\Debug\DAL.dll
+D:\program\asp-net\guitientietkiem_luongnam\BUS\bin\Debug\DTO.dll
+D:\program\asp-net\guitientietkiem_luongnam\BUS\bin\Debug\DAL.pdb
+D:\program\asp-net\guitientietkiem_luongnam\BUS\bin\Debug\DTO.pdb
+D:\program\asp-net\guitientietkiem_luongnam\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\program\asp-net\guitientietkiem_luongnam\BUS\obj\Debug\BUS.dll
+D:\program\asp-net\guitientietkiem_luongnam\BUS\obj\Debug\BUS.pdb

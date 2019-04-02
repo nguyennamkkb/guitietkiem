@@ -1,0 +1,7 @@
+D:\program\asp-net\guitientietkiem_luongnam\DAL\bin\Debug\DAL.dll
+D:\program\asp-net\guitientietkiem_luongnam\DAL\bin\Debug\DAL.pdb
+D:\program\asp-net\guitientietkiem_luongnam\DAL\bin\Debug\DTO.dll
+D:\program\asp-net\guitientietkiem_luongnam\DAL\bin\Debug\DTO.pdb
+D:\program\asp-net\guitientietkiem_luongnam\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\program\asp-net\guitientietkiem_luongnam\DAL\obj\Debug\DAL.dll
+D:\program\asp-net\guitientietkiem_luongnam\DAL\obj\Debug\DAL.pdb
